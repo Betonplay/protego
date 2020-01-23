@@ -60,3 +60,4 @@ Sitemap: https://sk.bongacams.com/sitemap.xml
 Sitemap: https://tr.bongacams.com/sitemap.xml
 Sitemap: https://ua.bongacams.com/sitemap.xml
 Sitemap: https://rt.bongacams.com/sitemap.xml
+Sitemap:  https://www.similarcams.com/bongacams
